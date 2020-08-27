@@ -40,6 +40,6 @@ Hi there, I'm **Rajat**, a **Reliance Jio Digital Championship Program winner** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat-1709&show_icons=true&hide_border=true)
+![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat-1709&show_icons=true&hide_border=true&theme=dracula)
 
  From [rajat-1709](https://github.com/rajat-1709)
